@@ -13554,12 +13554,12 @@ screen and (max-height: 300px) {
     position: relative;
     max-width: 100%;
     width: 100%;
-    height: 680px;
+    height: 280px;
     background: #333
 }
 @media (max-width: 991px) {
     .slider-component {
-        height: 600px
+        height: 200px
     }
 }
 @media (max-width: 767px) {
@@ -16458,7 +16458,7 @@ body {
     top: -1px
 }
 .index-slider-header .slider-component {
-    height: 650px
+    height: 400px
 }
 .index-slider-header .slider-component .slide--center {
     text-align: center
